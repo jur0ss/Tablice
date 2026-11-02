@@ -1,0 +1,14 @@
+/home/jurekg/RiderProjects/Tablice/Tablice/obj/Debug/net10.0/Tablice.GeneratedMSBuildEditorConfig.editorconfig
+/home/jurekg/RiderProjects/Tablice/Tablice/obj/Debug/net10.0/Tablice.AssemblyInfoInputs.cache
+/home/jurekg/RiderProjects/Tablice/Tablice/obj/Debug/net10.0/Tablice.AssemblyInfo.cs
+/home/jurekg/RiderProjects/Tablice/Tablice/obj/Debug/net10.0/Tablice.csproj.CoreCompileInputs.cache
+/home/jurekg/RiderProjects/Tablice/Tablice/bin/Debug/net10.0/Tablice
+/home/jurekg/RiderProjects/Tablice/Tablice/bin/Debug/net10.0/Tablice.deps.json
+/home/jurekg/RiderProjects/Tablice/Tablice/bin/Debug/net10.0/Tablice.runtimeconfig.json
+/home/jurekg/RiderProjects/Tablice/Tablice/bin/Debug/net10.0/Tablice.dll
+/home/jurekg/RiderProjects/Tablice/Tablice/bin/Debug/net10.0/Tablice.pdb
+/home/jurekg/RiderProjects/Tablice/Tablice/obj/Debug/net10.0/Tablice.dll
+/home/jurekg/RiderProjects/Tablice/Tablice/obj/Debug/net10.0/refint/Tablice.dll
+/home/jurekg/RiderProjects/Tablice/Tablice/obj/Debug/net10.0/Tablice.pdb
+/home/jurekg/RiderProjects/Tablice/Tablice/obj/Debug/net10.0/Tablice.genruntimeconfig.cache
+/home/jurekg/RiderProjects/Tablice/Tablice/obj/Debug/net10.0/ref/Tablice.dll
